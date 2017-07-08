@@ -1,0 +1,1 @@
+"./lcd16x2.obj" "./main.obj" "./p2.obj" "../lnk_msp430f5438a.cmd" -llibmath.a -llibc.a 
